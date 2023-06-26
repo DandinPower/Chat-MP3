@@ -45,3 +45,15 @@ The project includes the following main Python files:
 3. `main.py`: The main script that uses Gradio to build the interface and uses `AudioProcesser` and `TextProcessor` to process the uploaded MP3 file and generate an answer to the question.
 
 Please make sure to have all the necessary permissions and consider the usage cost of the OpenAI API.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
+## Contributing
+
+Contributions are welcome! If you find any issues or have suggestions, feel free to open an issue or submit a pull request.
+
+## Contact
+
+For any questions or inquiries, please contact [tomhot246@gmail.com](mailto:tomhot246@gmail.com).
