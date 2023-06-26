@@ -1,0 +1,6 @@
+pydu
+python-dotenv
+openai
+tqdm
+gradio
+scipy
