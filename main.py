@@ -35,4 +35,4 @@ with gr.Blocks() as demo:
         asked_question_btn.click(asked_question, inputs=[question, transcript], outputs=[answer])
 
 if __name__ == "__main__":
-    demo.launch(share=True)
+    demo.launch()
